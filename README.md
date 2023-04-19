@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>תפילות ליום העצמאות</title>
-  <link rel="icon" href="israel.webp">
+  <link rel="icon" href="israel.png">
 </head>
 <body dir="rtl">
   <h1><center>תפילות ליו העצמאות </center></h1>  
