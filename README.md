@@ -223,3 +223,4 @@
          <br><br>
          <img src="img/israel.png"alt="israel" width="10%" >
 
+ <script src="yom.js"></script>
