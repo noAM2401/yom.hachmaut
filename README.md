@@ -221,5 +221,5 @@
           <br>
          בקרוב בברכה מנועם חיים קרן </small>
          <br><br>
-         <img src="img/israel.png"alt="דגל ישראל" width="10%" >
+         <img src="img/israel.png"alt="israel" width="10%" >
 
